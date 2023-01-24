@@ -1,3 +1,3 @@
 # BattleShips
  
-C2.5. Итоговое практическое задание
+C2.5. Final task for the section.
